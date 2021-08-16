@@ -1,6 +1,6 @@
 #  ML with python for beginners
   Hello myself Siddhi Satish Bhanushali,🎨🎨 
-I am one of the hack club leads.You can connect with me on [LinkedIn](https://www.linkedin.com/in/siddhi-bhanushali-4178591b2).Being selected as a lead, I was so excited to start something new.As soon as I got selected, I started making a good team. And after that we all started thinking about how to start. Soon we came up with an idea and we decided to conduct a hands on workshop on Machine Learning with python for beginners. 
+I am one of the hack club leads.Being selected as a lead, I was so excited to start something new.As soon as I got selected, I started making a good team. And after that we all started thinking about how to start. Soon we came up with an idea and we decided to conduct a hands on workshop on Machine Learning with python for beginners. 
 
 We started marketing about the session,we even took registrations through our website and we got a great response with 100+ registrations. The team got a boost due to this. 
 
@@ -13,3 +13,6 @@ People cleared their doubts and the session was going on well. At the end of the
 ![IMG-20210815-WA0011](https://user-images.githubusercontent.com/69195262/129591676-886cde49-99f4-44c5-b601-6f36a0b7b742.jpg)
 ![IMG-20210815-WA0023](https://user-images.githubusercontent.com/69195262/129591696-a93ac853-44d3-4e94-9933-c7ffbbcbf9f8.jpg)
 
+Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/siddhi-bhanushali-4178591b2)
