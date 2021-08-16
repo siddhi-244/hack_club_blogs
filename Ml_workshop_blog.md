@@ -10,3 +10,6 @@ The session started with some 60 participants and the session went on for 2 hour
 people learnt the basics of python and then gradually went on learning some machine learning algorithms.
 People cleared their doubts and the session was going on well. At the end of the session we hosted a kahoot quiz based on the session and it was just amazing.Overall,the first event was a huge success ,we got a great feedback for this session and I feel very happy that hack club gave me this chance. Thank you.
 
+![IMG-20210815-WA0011](https://user-images.githubusercontent.com/69195262/129591676-886cde49-99f4-44c5-b601-6f36a0b7b742.jpg)
+![IMG-20210815-WA0023](https://user-images.githubusercontent.com/69195262/129591696-a93ac853-44d3-4e94-9933-c7ffbbcbf9f8.jpg)
+
